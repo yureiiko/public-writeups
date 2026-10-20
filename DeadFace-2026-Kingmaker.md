@@ -80,9 +80,3 @@ for i in range(24):
 print(out_string)
 ```
 Them you need to decypher the output string from HEX and from Base64 to obtain the message in clear with the flag.
-
-<style>
-        h1 {
-                color:pink;
-        }
-</style>
