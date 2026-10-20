@@ -1,6 +1,7 @@
 # DeadFace - 2026 - Kingmaker
-
+![](deadface2026-logo.png)
 ## BrainScan
+![](medical-device.jpg)
 ### Bedside Manner
 The flag is in a comment in the code of the web page we access from the challenge card.
 
